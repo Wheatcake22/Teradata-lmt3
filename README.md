@@ -1,0 +1,1 @@
+# Teradata-lmt3
